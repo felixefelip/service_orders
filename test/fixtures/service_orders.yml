@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  description: MyText
+  started_at: 2022-08-15 23:22:52
+  finished_at: 2022-08-15 23:22:52
+
+two:
+  customer: two
+  description: MyText
+  started_at: 2022-08-15 23:22:52
+  finished_at: 2022-08-15 23:22:52
